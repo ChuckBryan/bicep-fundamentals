@@ -1,5 +1,5 @@
 # Common Tasks when running Bicep Scripts
-1. Use Git Bash if installed.
+1. Use Bash (I just prefer it over powershell)
 2. Make sure az bicep is installed and upgraded:
 ```bash
 az bicep install && az bicep upgrade
