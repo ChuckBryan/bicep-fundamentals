@@ -1,4 +1,13 @@
 # Common Tasks when running Bicep Scripts
+This is the output from taking the Bicep Training from learn.microsoft.com: https://learn.microsoft.com/en-us/training/paths/fundamentals-bicep/
+
+I completed the fundamentals and will probably skip intermediate and advanced and jump over to deploying with azure devops: https://learn.microsoft.com/en-us/training/paths/bicep-azure-pipelines/
+
+## My Check List
+- [x] Bicep Fundaments
+- [ ] Deploy Azure resources by using Bicep and Azure Pipelines
+
+## Notes
 1. Use Bash (I just prefer it over powershell)
 2. Make sure az bicep is installed and upgraded:
 ```bash
